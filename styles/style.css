@@ -1,0 +1,11 @@
+.preview{
+    font-weight: bolder;
+    background-color: rgb(0, 119, 255);
+    border-radius: 50%;
+  }
+  .next-button{
+    font-weight: bolder;
+    border-radius: 50%;
+    background-color: rgb(17, 0, 255);
+  }
+  
