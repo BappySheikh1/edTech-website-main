@@ -10,3 +10,16 @@
     color: red;
 }
 /*modal end-----------*/
+/*Button color start*/
+.coustomized-color{
+    background-color:#289BDE;
+}
+.coustomized-color:hover{
+    background-color:lightgray;
+    color: #000000 !important;
+    transition: 0.9s;
+}
+.bg-coustomized{
+    background-color:#289BDE;
+}
+/*Button color end------------------*/
