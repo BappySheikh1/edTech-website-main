@@ -23,3 +23,13 @@
     background-color:#289BDE;
 }
 /*Button color end------------------*/
+/*feedback start*/
+.pre-color{
+    background-color: #289BDE;
+    border-radius: 50%;
+}
+.next-color{
+    background-color: #00a2ff;
+    border-radius: 50%;
+}
+/*feedback end */
