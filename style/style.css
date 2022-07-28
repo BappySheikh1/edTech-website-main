@@ -1,0 +1,12 @@
+/*modal start*/
+
+.modal-header{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+.red::after{
+    content: "*";
+    color: red;
+}
+/*modal end-----------*/
